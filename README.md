@@ -1,3 +1,1 @@
-https://tryhackme.com/games/koth/join/6448cb1844ee96f319bf5a71
-
-https://tryhackme.com/games/koth/join/cf2f6e16eca8159aa6996a1d
+s://tryhackme.com/games/koth/join/3277d11f242c0d19e6ec6fab
