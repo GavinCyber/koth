@@ -1,1 +1,1 @@
-https://tryhackme.com/games/koth/join/f1819899a7d9ed3dd72a4bec
+https://tryhackme.com/games/koth/join/cf89a776795b404365ccb8c2
